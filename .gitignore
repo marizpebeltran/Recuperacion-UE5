@@ -1,0 +1,19 @@
+# Cache, Binarios y Archivos Autogenerados de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Archivos de Visual Studio y Rider (Archivos locales del IDE)
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcworkspace
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
